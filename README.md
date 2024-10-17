@@ -1,4 +1,4 @@
-## Hi there! This is Juijia Chen 👋
+##                                                                   Hi there! This is Juijia Chen 👋
 
 #### 👩🏻‍💻 About Me
 
