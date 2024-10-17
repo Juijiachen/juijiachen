@@ -6,8 +6,8 @@
 
   - 🦁 &nbsp; M.S. in Operations Research at Columbia Engineering
   - 🤝 &nbsp; Looking to collaborate on data science projects
-  - 🌱 &nbsp; Seeking for opportunities in full-time data science position
-  - 😄 &nbsp; Interested in Self Driving and Robotics Technology
+  - 🌱 &nbsp; Seeking for opportunities in full-time data scientist position
+  - 😄 &nbsp; Interested in Data Science & Machine learning
   - 📫 &nbsp; How to reach me: juijia.chen@gmail
 </div>
 
